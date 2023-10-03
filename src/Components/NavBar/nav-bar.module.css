@@ -1,0 +1,15 @@
+.container {
+  background-color: var(--comp-background);
+  border-radius: 0 0 20px 20px;
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  width: 80%;
+  min-width: 325px;
+  max-height: 64px;
+  padding: 0 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

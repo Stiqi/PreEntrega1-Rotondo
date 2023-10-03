@@ -4,7 +4,7 @@ import { Badge } from "antd";
 const CartWidget = () => {
   return (
     <button type="button">
-      <Badge color="#fd9b44" count="3" offset={[-5, 15]}>
+      <Badge color="#fd9b44" count="3" offset={[-5, 12]}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 32 32"

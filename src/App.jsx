@@ -1,9 +1,9 @@
 import "./App.css";
 import NavBar from "./Components/NavBar/NavBar";
-import ItemListContainer from "./Containers/ItemListContainer/ItemListContainer";
+import ItemListContainer from "./Components/ItemListContainer/ItemListContainer";
 
 function App() {
-  const greetingText = "¡Bienvenido a la tienda de Stiqi!";
+  const greetingText = "¡Bienvenidx a la tienda de Stiqi!";
 
   return (
     <>

@@ -41,5 +41,9 @@ button {
 @media screen and (max-width: 678px) {
   .nav-item {
     margin-left: 10px;
+    width: 40px;
+  }
+  .nav-logo {
+    width: 54px;
   }
 }

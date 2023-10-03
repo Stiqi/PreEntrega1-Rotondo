@@ -1,4 +1,4 @@
-import Logo from "../../assets/icon-logo-branded.png";
+import Logo from "../../Assets/icon-logo-branded.png";
 import CartWidget from "../CartWidget/CartWidget";
 import InstagramLogo from "../InstagramLogo/InstagramLogo";
 import WspLogo from "../WspLogo/WspLogo";

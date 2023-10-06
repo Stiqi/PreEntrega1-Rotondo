@@ -1,0 +1,22 @@
+.card-img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+.card {
+  background-color: var(--comp-background);
+  padding: 6px;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 5px 10px;
+}
+
+.name {
+  margin-top: 4px;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+
+.price {
+  margin: 8px 0;
+}

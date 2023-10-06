@@ -1,0 +1,42 @@
+.container-counter {
+  width: 100%;
+  background-color: var(--comp-background);
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  display: flex;
+}
+
+.boton {
+  cursor: pointer;
+  width: 100%;
+  font-weight: 600;
+  font-size: 1em;
+}
+
+.counter {
+  background-color: var(--primary-color);
+  width: 80%;
+  padding: 0.3em;
+  margin: 0;
+}
+
+.quitar {
+  cursor: pointer;
+  font-weight: 600;
+  background-color: var(--primary-color);
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 0.3em;
+  padding: 0.3em;
+}
+
+@keyframes appear {
+  from {
+    width: 50%;
+  }
+}
+
+.appear {
+  animation-name: appear;
+  animation-duration: 0.3s;
+}

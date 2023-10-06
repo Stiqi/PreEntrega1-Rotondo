@@ -3,7 +3,7 @@ import NavBar from "./Components/NavBar/NavBar";
 import ItemListContainer from "./Components/ItemListContainer/ItemListContainer";
 
 function App() {
-  const greetingText = "¡Bienvenidx a la tienda de Stiqi!";
+  const greetingText = "¡Stiqi 3D Store!";
 
   return (
     <>
